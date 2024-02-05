@@ -1,0 +1,13 @@
+{
+    "HarmonyId": "voidbehemoth.slashslander",
+    "DisplayName": "/Slander",
+    "Authors": [
+      "VoidBehemoth"
+    ],
+    "Description": "It takes a poet to express true anger.",
+    "Version": "1.0.0",
+    "RequiredMods": [
+      "voidbehemoth.commandlib"
+    ],
+    "Settings": {}
+}
